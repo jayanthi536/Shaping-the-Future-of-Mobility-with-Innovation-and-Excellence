@@ -3,7 +3,9 @@ Shaping the Future of Mobility with Innovation and Excellence.
 
 WhatNext Vision Motors is more than an automotive manufacturer — it is a movement toward redefining transportation through cutting-edge innovation, sustainability, and design excellence. Rooted in futuristic vision and driven by a passion for clean mobility, WhatNext is setting new benchmarks in electric vehicle (EV) technology and intelligent transportation systems. This report outlines the project’s foundation, objectives, technology approach, and exciting facts that position WhatNext as a pioneer in the global mobility landscape.
 
+
 PROJECT OVERVIEW 
+
 
 Project Name: WhatNext Vision Motors
 
@@ -17,6 +19,7 @@ Headquarters: [Insert Location]
 
 Core Offerings: Electric Vehicles (EVs), Autonomous Driving Tech, Smart Charging Solutions, Mobility-as-a-Service (MaaS)
 
+
 Vision and Mission
 
 Vision:
@@ -25,6 +28,7 @@ To become the world’s most visionary automotive brand, empowering future citie
 Mission:
 To design and deliver state-of-the-art electric vehicles and smart mobility technologies that fuse engineering precision, environmental responsibility, and user-centric innovation.
 
+ 
  Core Values
  
 🚀 Innovation First: Constantly pushing boundaries in EV tech, AI integration, and design.
@@ -60,7 +64,9 @@ Strategic Focus Areas
 
 📡 Over-the-Air (OTA) Updates: Vehicles evolve over time with new features pushed remotely
 
-8. Market Opportunity
+
+Market Opportunity
+
 The EV market is projected to reach $1.3 trillion by 2030.
 
 Urban populations are demanding clean, connected, and autonomous solutions.
@@ -70,6 +76,7 @@ Governments worldwide are offering subsidies and incentives for zero-emission mo
 WhatNext Vision Motors is uniquely positioned at the convergence of all these trends.
 
 Roadmap
+
 Phase	Milestone	Timeline
 Phase 1	Prototype Development	Q1–Q3 2025
 Phase 2	Pilot Testing & Partnerships	Q4 2025
