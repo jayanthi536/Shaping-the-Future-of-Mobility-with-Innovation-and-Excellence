@@ -90,4 +90,5 @@ Phase 4	International Expansion	2027–2028
 Phase 5	Full Smart Ecosystem Rollout	2028+
 
  Conclusion
+ 
 WhatNext Vision Motors is not just keeping up with the future — it is shaping it. With bold innovation, sustainability at its core, and engineering brilliance, WhatNext is committed to transforming the global mobility narrative. As the world pivots toward electrification and automation, WhatNext is leading with a vision that’s practical, powerful, and pioneering.
