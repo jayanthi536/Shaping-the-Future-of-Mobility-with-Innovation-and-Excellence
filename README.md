@@ -20,6 +20,7 @@ Headquarters: [Insert Location]
 Core Offerings: Electric Vehicles (EVs), Autonomous Driving Tech, Smart Charging Solutions, Mobility-as-a-Service (MaaS)
 
 
+
 Vision and Mission
 
 Vision:
@@ -30,6 +31,7 @@ To design and deliver state-of-the-art electric vehicles and smart mobility tech
 
  
  Core Values
+ 
  
 🚀 Innovation First: Constantly pushing boundaries in EV tech, AI integration, and design.
 
@@ -43,6 +45,7 @@ To design and deliver state-of-the-art electric vehicles and smart mobility tech
 
 Strategic Focus Areas
 
+
 🔋 Battery Innovation: Solid-state R&D lab in progress, aiming for 2x energy density
 
 🧠 Autonomous AI: Proprietary “VisionDrive” system learning from real-world edge cases
@@ -53,6 +56,7 @@ Strategic Focus Areas
 
 
  Exciting Facts
+ 
  
 🌎 Global Patent Portfolio: 40+ filed patents in AI, energy storage, and smart sensors
 
@@ -66,6 +70,7 @@ Strategic Focus Areas
 
 
 Market Opportunity
+
 
 The EV market is projected to reach $1.3 trillion by 2030.
 
